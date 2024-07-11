@@ -1,5 +1,5 @@
 ![이미지](image/tree.png)
-# SayYOUNG | 한결같이 성장하는 개발자
+# SayYOUNG | 늘푸르게 성장하는 개발자
   - 이름 : 이세영 (李世榮)
   - 영문명 : LEE SEYOUNG
   - Email : gch05612@gmail.com
